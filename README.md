@@ -1,7 +1,7 @@
 # Kali_Linux
 
-Day 1 - 2025.10.18/n
-check cpu(list cpu)/n
-check memory, check list block, chekc ip address/n
-test network connectivity in Linux/n
-test network connectivity in Window/n
+* Day 1 - 2025.10.18
+*    check cpu(list cpu)
+*     check memory, check list block, chekc ip address
+*    test network connectivity in Linux
+*    test network connectivity in Window
